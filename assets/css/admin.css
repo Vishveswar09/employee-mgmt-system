@@ -1,0 +1,12 @@
+.text-colr{
+    color: rgb(197, 89, 18);
+}
+.btn-bg{
+    background-color: rgb(118, 127, 131);
+    color: #a6dba1;
+}
+.btn-bg:hover{
+    background-color: transparent;
+    color: rgb(37, 180, 126);
+    border: 1px solid rgb(1, 8, 12);
+}

@@ -1,0 +1,9 @@
+.nav{
+    background-color: rgb(34, 7, 15);
+    font-weight: 600;
+    padding: 0 15px;
+}
+.nav-link span:hover{
+    border-bottom: 1px solid #fff;
+    transition: 1s;
+}
